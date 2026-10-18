@@ -10,7 +10,8 @@ This repository is a [fork of the original team repository](https://github.com/i
 - **Search and filter:** recipe-search screens support criteria such as name, category, difficulty, tools, and cooking time.
 - **View recipe details:** the detail screen displays ingredients and cooking steps.
 - **Share and edit recipes:** users can post recipes for others and modify their own submissions.
-- **Manage refrigerator ingredients:** ingredient tracking screens represent users' stored food items.\n- **Save and revisit recipes:** account-linked saved/written recipe screens are represented in the client.
+- **Manage refrigerator ingredients:** ingredient tracking screens represent users' stored food items.
+- **Save and revisit recipes:** account-linked saved/written recipe screens are represented in the client.
 
 Additional team-developed modules cover refrigerator ingredients, a community marketplace and cooking tips, profile management, and location-aware features. These modules are part of the overall team application; they are not listed as my individual contributions.
 
