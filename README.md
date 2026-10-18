@@ -1,16 +1,16 @@
-# Tangerine (뭐머귤래) — Recipe App for One-Person Households
+# Tangerine (뭐머귤래) — Recipe-Sharing Community & Refrigerator Tracker
 
-**Tangerine** is a **2020 team project** for people living alone, centered on finding, viewing, creating, and managing recipes. The original system combined a Java Android application with PHP endpoints and a MySQL database.
+**Tangerine** is a **2020 team project** for people living alone, built around a community where users can post and share recipes and track ingredients in their refrigerators. The original system combined a Java Android application with PHP endpoints and a MySQL database.
 
 This repository is a [fork of the original team repository](https://github.com/icymunchhhiip/Tangerine). It primarily contains the **Android client**, not the original PHP backend or MySQL database setup. It is preserved as a historical team project and has not been revalidated on modern Android devices.
 
-## Recipe workflow
+## Recipe sharing and ingredient management
 
-- **Browse recipes:** the home screen and paginated recipe list display available recipes.
+- **Browse shared recipes:** the home screen and paginated recipe list display recipes posted through the app.
 - **Search and filter:** recipe-search screens support criteria such as name, category, difficulty, tools, and cooking time.
 - **View recipe details:** the detail screen displays ingredients and cooking steps.
-- **Create and edit recipes:** the recipe editor implements entry and modification flows.
-- **Save and revisit recipes:** account-linked saved/written recipe screens are represented in the client.
+- **Share and edit recipes:** users can post recipes for others and modify their own submissions.
+- **Manage refrigerator ingredients:** ingredient tracking screens represent users' stored food items.\n- **Save and revisit recipes:** account-linked saved/written recipe screens are represented in the client.
 
 Additional team-developed modules cover refrigerator ingredients, a community marketplace and cooking tips, profile management, and location-aware features. These modules are part of the overall team application; they are not listed as my individual contributions.
 
